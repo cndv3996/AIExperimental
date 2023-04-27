@@ -1,0 +1,1 @@
+A random test's time cost is 7.504 seconds

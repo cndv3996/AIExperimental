@@ -1,0 +1,26 @@
+[
+  {
+    "friend_id": 1,
+    "name": "Desmond",
+    "age": 35,
+    "gender": "male",
+    "location": "Richmond",
+    "weight": 195
+  },
+  {
+    "friend_id": 2,
+    "name": "Henry",
+    "age": 31,
+    "gender": "male",
+    "location": "Blaine",
+    "weight": 182
+  },
+  {
+    "friend_id": 3,
+    "name": "Jasmine",
+    "age": 36,
+    "gender": "female",
+    "location": "crossroad",
+    "weight": 163
+  }
+]
